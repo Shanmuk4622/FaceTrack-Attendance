@@ -1,1 +1,5 @@
-pip install face_recognition
+# pip install face_recognition
+face_recognition
+opencv-python
+dlib
+numpy
