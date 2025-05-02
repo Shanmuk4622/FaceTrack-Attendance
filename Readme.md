@@ -3,6 +3,12 @@
 ## Overview
 This project is a **Face Recognition and Attendance System** that uses a webcam to detect faces in real-time and mark attendance for recognized individuals. The system identifies faces using pre-encoded images and logs the attendance in a CSV file with timestamps.
 
+## Demo Video
+Watch the demo video on YouTube to see the system in action:
+
+[![ Demo](https://img.youtube.com/vi/e-r-lOBEmJM/0.jpg)](https://youtu.be/e-r-lOBEmJM)
+
+
 ## Features
 - Real-time face detection and recognition using a webcam.
 - Attendance logging with the name and timestamp in a CSV file.
